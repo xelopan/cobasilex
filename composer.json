@@ -1,0 +1,13 @@
+{
+    "name": "breach/cobasilex",
+    "description": "test for silex",
+    "require": {
+        "silex/silex": "~1.1"
+    },
+    "authors": [
+        {
+            "name": "xelopan",
+            "email": "uynamiba@gmail.com"
+        }
+    ]
+}
